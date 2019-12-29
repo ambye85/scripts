@@ -4,4 +4,5 @@
 
 # Install generally required packages
 brew install openssl@1.1 libevent
+brew install autoconf pkg-config readline sqlite3 xz zlib
 
