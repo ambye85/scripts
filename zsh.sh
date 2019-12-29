@@ -5,7 +5,7 @@
 ################################################################################
 brew install zsh zsh-completions
 
-cp ~/.dotfiles/zshrc ~/.zshrc
+ln -s ~/.dotfiles/zshrc ~/.zshrc
 #cp ~/.dotfiles/p10k.zsh ~/.p10k.zsh
 
 # install zplugin
